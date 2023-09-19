@@ -1,7 +1,8 @@
-[Link to submission:] <https://leetcode.com/problems/longest-common-prefix/submissions/1053434626/>
+# Link to submission: 
+    # https://leetcode.com/problems/longest-common-prefix/submissions/1053434626/
 
 # Link to problem:
-[https://leetcode.com/problems/longest-common-prefix/]
+    # https://leetcode.com/problems/longest-common-prefix/
 
 
 def longestCommonPrefix(strs):
