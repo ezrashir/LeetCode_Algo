@@ -1,5 +1,5 @@
 # Link to submission:
-    # https://leetcode.com/problems/remove-element/submissions/1059508136/
+    # https://leetcode.com/problems/remove-element/submissions/1059509324/
 
 # Link to problem:
     # https://leetcode.com/problems/remove-element/description/
