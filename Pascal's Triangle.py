@@ -1,5 +1,5 @@
 # Link to submission:
-    # https://leetcode.com/problems/pascals-triangle/submissions/1153441995/
+    # https://leetcode.com/problems/pascals-triangle/submissions/1153446557/
 
 # Link to problem:
     # https://leetcode.com/problems/pascals-triangle/description/
